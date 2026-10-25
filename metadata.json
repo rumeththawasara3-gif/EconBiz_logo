@@ -1,0 +1,6 @@
+{
+  "name": "EconBiz Watermark & Brand Overlay Studio",
+  "description": "Upload photos, customize the EconBiz brand logo overlay with real-time controls, and download high-resolution branded images for stories and social feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
